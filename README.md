@@ -2,7 +2,14 @@
 
 **Este projeto permite que o usuário calcule suas faltas no ensino superior,** em matérias de 30, 60 e 90 horas de carga horária.
 
-> Projeto realizado com a finalidade de estudo do electron-react.
+> _Projeto realizado com a finalidade de estudo do electron-react._
+
+### **🛠️ BUILD**
+>npm i
+
+>npm run build
+
+>npm run start
 
 ### **👨‍💻 TECNOLOGIAS UTILIZADAS**
 
