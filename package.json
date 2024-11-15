@@ -1,0 +1,61 @@
+{
+  "name": "calculafaltas",
+  "version": "1.0.0",
+  "description": "Uma calculadora de faltas para o ensino superior, com base em matérias com carga horária de 30, 60 e 90 horas.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "react-scripts build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ofelipelucca/CalculaFaltas.git"
+  },
+  "keywords": [
+    "calculadora",
+    "faltas",
+    "ensino",
+    "superior",
+    "carga",
+    "horaria",
+    "horas",
+    "ufmg",
+    "universidade",
+    "faculdade"
+  ],
+  "author": "ofelipelucca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ofelipelucca/CalculaFaltas/issues"
+  },
+  "homepage": ".",
+  "dependencies": {
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.0.1",
+    "@testing-library/user-event": "^14.5.2",
+    "@types/jest": "^29.5.14",
+    "@types/node": "^22.9.0",
+    "electron": "^33.2.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "^5.0.1",
+    "typescript": "^4.9.5",
+    "web-vitals": "^4.2.4"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@types/react-dom": "^18.3.1"
+  }
+}

@@ -1,0 +1,37 @@
+#home-container {
+    margin: 10vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+#opcoes {
+    padding: 2vh;
+    margin-bottom: 5vh;
+}
+
+#carga-container, #faltas-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+#carga-label, #faltas-label {
+    width: 31vh;
+    font-size: 3vh;
+    font-weight: normal;
+    margin-right: 10px;
+}
+
+#carga-select, #faltas-input {
+    padding: 5px;
+    font-size: 1rem;
+}
+
+#calculate-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: bold;
+}
