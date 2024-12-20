@@ -4,23 +4,22 @@
 
 > _Projeto realizado com a finalidade de estudo do electron-react._
 
-### **🛠️ BUILD**
+### **🛠️ COMO BUILDAR E USAR A APLICAÇÃO?**
+
+>_instale a versão mais atualizada do python e do node.js_
+
+>_abra o console na pasta da aplicação e digite os seguintes comandos:_
+
 >npm i
 
 >npm run build
 
 >npm run start
 
-### **👨‍💻 TECNOLOGIAS UTILIZADAS**
+### **👨‍💻 O QUE FOI UTILIZADO?**
 
 - Python
 - TypeScript
 - NodeJS
 - Electron
 - React
-
-**Fique a vontade para contribuir para este projeto com pull requests :)**
-
-### **📌 CONTATO**
-
-📧 Email: [felipe.lucca.t.oliveira@gmail.com](mailto:felipe.lucca.t.oliveira@gmail.com).
