@@ -4,11 +4,19 @@
 
 > _Projeto realizado com a finalidade de estudo do electron-react._
 
-### **🛠️ COMO BUILDAR E USAR A APLICAÇÃO?**
+## **🛠️ COMO BUILDAR E USAR A APLICAÇÃO?**
 
->_instale a versão mais atualizada do python e do node.js_
+### **PRÉ-REQUISITOS:**
+
+- Versão mais recente do [Git](https://git-scm.com/downloads). _(É possível apenas baixar manualmente os arquivos da aplicação e pular a etapa do download do git e git clone.)_
+- Versão mais recente do [Python](https://python.org/downloads).
+- Versão mais recente do [NodeJS](https://nodejs.org/en/download).
+
+### **ETAPAS:**
 
 >_abra o console na pasta da aplicação e digite os seguintes comandos:_
+
+>git clone https://github.com/ofelipelucca/CalculaFaltas.git
 
 >npm i
 
