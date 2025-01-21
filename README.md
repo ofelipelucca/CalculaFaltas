@@ -18,6 +18,8 @@
 
 >git clone https://github.com/ofelipelucca/CalculaFaltas.git
 
+>cd CalculaFaltas
+
 >npm i
 
 >npm run build
